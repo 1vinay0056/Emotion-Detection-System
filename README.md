@@ -27,6 +27,7 @@ The application can identify the following emotions:
 ## 🛠️ Technologies Used
 
 * Python
+* NLP
 * Streamlit
 * Scikit-Learn
 * Logistic Regression
