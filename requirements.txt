@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+nltkstreamlit
+scikit-learn
+pandas
+numpy
+joblib
+nltk
